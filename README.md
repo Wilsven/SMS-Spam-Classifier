@@ -1,11 +1,11 @@
 # SMS-Spam-Classifier
 
+In this particular project, SMS are classified as ham or spam using Natural Language Processing.
+
 ## Data 
----
 Data set is downloaded from [Kaggle](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
 
 ## Topics
----
 * Natural Language Processing (NLP)
 * Machine Learning
 * Classification
@@ -13,7 +13,6 @@ Data set is downloaded from [Kaggle](https://archive.ics.uci.edu/ml/datasets/sms
 * Linear Support Vector Classifier
 
 ## Approach
----
 * Exploratory Data Analysis
 * Data Preprocessing
 * Text Cleaning
@@ -24,7 +23,6 @@ Data set is downloaded from [Kaggle](https://archive.ics.uci.edu/ml/datasets/sms
 * Model trained using Naive-Bayes Classifer and SVM (Support Vector Machine)
 
 ## Evaluation
----
 Machine learning algorithm using Multinomial Naive Bayes and Linear Support Vector Classifier was used to predict if a given message was ham or spam.
 
 
